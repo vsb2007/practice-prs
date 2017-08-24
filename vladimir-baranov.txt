@@ -1,0 +1,6 @@
+1. 9 Комитов, если вместе с переиенованием. 8 без.
+2. 10.10.2012
+3. Pavel Tsaregorodsev
+4. 3b128fa1c6b96c9be4aed5b2bcf777537d752c5e
+   https://github.com/express42/zabbixapi/commit/3b128fa1c6b96c9be4aed5b2bcf777537d752c5e
+
